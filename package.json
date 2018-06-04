@@ -1,0 +1,25 @@
+{
+  "name": "rest0",
+  "version": "0.0.0",
+  "description": "REST Server for All Applications of Texal Project",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "server",
+    "nodejs",
+    "expressjs",
+    "js"
+  ],
+  "author": "Joko Wandyatmono",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
